@@ -9,4 +9,6 @@ So, have you ever seen those Scratch extensions you can import in Turbowarp? Wel
 **You can't do it on standalone Scratch so use Turbowarp or PenguinMod.**  
 **Create a project using one of those Scratch softwares.**  
 **Go to extensions and find where you can load a custom one.**  
-**Paste in the extension code in text, or give it the raw URL.**  
+**Paste in the extension code in text.**  
+**If it ask for file, download the JS and upload.**  
+**If it ask for URL, go to the raw github and copy link.**
