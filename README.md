@@ -2,7 +2,8 @@
 So, have you ever seen those Scratch extensions you can import in Turbowarp? Well I made my own! Since I am a script kiddie most are coded with ChatGPT, Sorry!
 
 # Extensions
-**IP Editor** - Mainly made for logging IP's.
+**IP Editor** - Mainly made for logging IP's or Useragent Headers.  
+**Discord** - Mainly for Discord webhooks, aka Discord.JS in Scratch.
 
 # How To Import
 **You can't do it on standalone Scratch so use Turbowarp or PenguinMod.**  
